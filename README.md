@@ -11,4 +11,4 @@ VisionDice 2.0 is a simple yet engaging project built for VisionOS using Swift, 
 
 ## Demo Video
 
-[![Watch the demo video](https://drive.google.com/file/d/1mmrJpgHKmQaX7wAeeFv-mfLA8qGjSjGH/view?usp=sharing)
+[![Watch the demo video]](https://drive.google.com/file/d/1mmrJpgHKmQaX7wAeeFv-mfLA8qGjSjGH/view?usp=sharing)
